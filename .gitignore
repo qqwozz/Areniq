@@ -1,0 +1,18 @@
+# Node
+node_modules/
+frontend/dist/
+npm-debug.log*
+
+# Go
+backend/bin/
+*.test
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
